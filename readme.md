@@ -12,5 +12,5 @@ This is a simple web application built with Streamlit for generating QR codes. U
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/shvynu/qr-code-generator.git
    cd qr-code-generator

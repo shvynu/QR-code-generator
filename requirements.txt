@@ -1,0 +1,4 @@
+### Requirements File (`requirements.txt`)
+streamlit==1.25.0
+qrcode==7.3.1
+Pillow==10.0.1
